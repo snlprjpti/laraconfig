@@ -61,7 +61,7 @@
                 "laravel/telescope"
             ],
             "providers": [
-                "Modules\\Provider\\ConfigServiceProvider"
+                "snlprjpti\\Modules\\Provider\\ConfigServiceProvider"
             ],
             "aliases": {
             }
