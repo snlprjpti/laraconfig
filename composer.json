@@ -17,9 +17,6 @@
     },
     "extra": {
         "laravel": {
-            "dont-discover": [
-                "laravel/telescope"
-            ],
             "providers": [
                 "Snlprjpti\\Provider\\ConfigServiceProvider"
             ],
