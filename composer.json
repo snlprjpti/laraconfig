@@ -1,5 +1,5 @@
 {
-    "name": "sunil/laraconfig",
+    "name": "snlprjpti/laraconfig",
     "autoload": {
         "psr-4": {
             "Sunil\\Laraconfig\\": "src/"
