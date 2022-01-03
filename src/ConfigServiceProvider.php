@@ -16,14 +16,14 @@ class ConfigServiceProvider extends ServiceProvider
     public function registerConfig()
     {
         $this->publishes([
-            __DIR__ . '/laraconfig/' =>  base_path('src/setting/config/'),
+            __DIR__ . '/laraconfig/' =>  base_path('src/config/'),
         ], "core_config");
     }
 
     public function registerMiddleware()
     {
         $this->publishes([
-            __DIR__ . '/laraconfig/' =>  base_path('src/setting/middleware/'),
+            __DIR__ . '/laraconfig/' =>  base_path('src/middleware/'),
         ], "core_middleware");
     }
 }
