@@ -1,6 +1,6 @@
 <?php
 
-namespace Snlprjpti\Src;
+namespace Snlprjpti\Laraconfig;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -2,7 +2,7 @@
     "name": "snlprjpti/laraconfig",
     "autoload": {
         "psr-4": {
-            "Sunil\\Laraconfig\\": "src/"
+            "Snlprjpti\\Laraconfig\\": "src/"
         }
     },
     "authors": [
@@ -11,14 +11,10 @@
             "email": "sunil.prajapati@hazesoft.co"
         }
     ],
-    "require": {
-    },
-    "require-dev": {
-    },
     "extra": {
         "laravel": {
             "providers": [
-                "Snlprjpti\\Src\\ConfigServiceProvider"
+                "Snlprjpti\\Laraconfig\\ConfigServiceProvider"
             ],
             "aliases": {
             }
