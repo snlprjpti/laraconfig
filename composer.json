@@ -18,11 +18,13 @@
     "extra": {
         "laravel": {
             "providers": [
+                "Snlprjpti\\Src\\ConfigServiceProvider"
             ],
             "aliases": {
             }
         }
     },
+
     "minimum-stability": "dev",
     "prefer-stable": true
 }
