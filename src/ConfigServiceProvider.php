@@ -1,6 +1,6 @@
 <?php
 
-namespace src\setting\provider;
+namespace Snlprjpti\Provider;
 
 use Illuminate\Support\ServiceProvider;
 

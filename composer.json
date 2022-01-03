@@ -21,7 +21,7 @@
                 "laravel/telescope"
             ],
             "providers": [
-                "src\\setting\\provider\\ConfigServiceProvider"
+                "Snlprjpti\\Provider\\ConfigServiceProvider"
             ],
             "aliases": {
             }
