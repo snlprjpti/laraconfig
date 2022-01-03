@@ -7,7 +7,7 @@
     },
     "authors": [
         {
-            "name": "Sunils Prajapati",
+            "name": "Sunil Prajapati",
             "email": "sunil.prajapati@hazesoft.co"
         }
     ],
@@ -23,8 +23,5 @@
             "aliases": {
             }
         }
-    },
-
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
