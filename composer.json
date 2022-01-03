@@ -18,7 +18,6 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Snlprjpti\\Provider\\ConfigServiceProvider"
             ],
             "aliases": {
             }
